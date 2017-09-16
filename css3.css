@@ -1,0 +1,97 @@
+*{
+    
+}
+.header{
+	background: #22292c;
+	width: 100%;
+	line-height: 10vw;
+	text-align: center;
+	color: white;
+	font-size: 5vw;
+}
+.header_back{
+	color: white;
+	width: 20%;
+	
+	float: left;
+	text-align: left;
+	margin-left: 2%;
+}
+.header_more{
+	width: 20%;
+	
+	float:right;
+	color: white;
+	text-align: right;
+	margin-right: 2%; 
+}
+.header_more-point{
+	border: 1vw white solid;
+	border-radius: 50%;
+	float: right;
+	margin: 20% 4%;
+}
+.contain{
+	background: #68cdd5;
+	width:  100%;
+	padding: 60% 0;
+	position: relative;
+}
+.contain_back{
+	position: absolute;
+	left: 0;
+	top: 2%;
+}
+.contain_title{
+	position: absolute;
+	width: 30%;
+	left: 35%;
+	top: 15%;
+	margin: auto;
+}
+.contain_article{
+	width: 60%;
+	color: white;
+	text-align: left;
+	position: absolute;
+	top:40%;
+	left: 20%;
+	
+}
+.contain_pernum{
+	font-size: 2%;
+	position: absolute;
+	left: 20%;
+	bottom: 15%;
+	width: 15%;
+	height: 15%;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+.contain_pernum-num{
+	
+}
+.contain_provider{
+	font-size: 2%;
+	position: absolute;
+	right: 20%;
+	bottom: 15%;
+	width: 18%;
+	height: 15%;
+	color: white;
+	text-align: center;
+	border-radius: 50%;
+	background: #009e96;
+}
+.contain_provider>img{
+	height: 65%;
+	padding-top: 20%;
+
+}
+.contain_provider-name{
+	display: block;
+	text-align: center;
+	padding-top: 15%;
+	font-weight:  bold;
+}
